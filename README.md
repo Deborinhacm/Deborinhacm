@@ -1,12 +1,13 @@
-- 👋 ola eu sou Deborinhacm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### você ѕeja вeм vιndo a мeυ perғιl💖
 
-<!---
-Deborinhacm/Deborinhacm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+meu nome é Débora Carvalho Marcelino mas pode me chama de Debi
+
+-Estou estudando na Alura😼
+-estou me desenvolvendo na liguagem javascript
+-utiliza esse espaço para minha organização e compartilhar dos meus projetos desenvolvidos na aula de tecnologia e robótica 🤖✨
+
+### vσcê εηтяαя εм cσηтαтσ cσмιgσ 📫:
+
+@debora_marcelino19
+
+marcelinodebora797@gmail.com
